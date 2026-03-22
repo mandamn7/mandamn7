@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Let's+build+something+great!)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mandamn&color=00C9FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=mandamn7&color=00C9FF&style=flat-square)
 
 </div>
 
@@ -32,8 +32,8 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mandamn&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandamn&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mandamn7&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandamn7&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mandamn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mandamn7)
 
 </div>
 
