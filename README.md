@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mandamn 👋
 
-<!--
-**mandamn7/mandamn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full-stack developer who loves building complete web experiences — from pixel-perfect UIs to clean, reliable backends.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend (Main Focus)**
+- React.js
+- HTML & CSS
+
+**Backend (Supporting)**
+- Node.js & Express.js
+- MongoDB
+
+## 📌 What I Do
+- Build full-stack web applications end to end
+- Design responsive and clean user interfaces with React
+- Connect frontend to backend seamlessly
+
+## 📫 Let's Connect
+- GitHub: [@Mandamn](https://github.com/Mandamn)
+
+---
+*"From the UI to the database — I handle it all."*
