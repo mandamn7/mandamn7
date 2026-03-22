@@ -1,24 +1,26 @@
-# Hi, I'm Mandamn 👋
+# Hey there, I'm Mandamn 👋
 
-A full-stack developer who loves building complete web experiences — from pixel-perfect UIs to clean, reliable backends.
+Full-stack developer who turns ideas into real, working web apps — clean code on both ends.
 
 ## 🛠️ Tech Stack
 
-**Frontend (Main Focus)**
-- React.js
-- HTML & CSS
+**Frontend**
+- React.js · HTML · CSS
 
-**Backend (Supporting)**
-- Node.js & Express.js
-- MongoDB
+**Backend**
+- Node.js · Express.js · MongoDB
 
-## 📌 What I Do
-- Build full-stack web applications end to end
-- Design responsive and clean user interfaces with React
-- Connect frontend to backend seamlessly
+## 📌 What I Build
+- Full-stack web apps from scratch
+- Smooth, responsive UIs with React
+- Solid REST APIs and database logic
+
+## 🌱 Currently
+- Sharpening my React skills
+- Exploring new backend patterns
 
 ## 📫 Let's Connect
 - GitHub: [@Mandamn](https://github.com/Mandamn)
 
 ---
-*"From the UI to the database — I handle it all."*
+*"Good code speaks for itself."*
