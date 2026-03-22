@@ -1,20 +1,20 @@
-# Hey, I'm Mandamn 🚀
+# Mandamn ⚡
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Open+to+Collabs+%F0%9F%A4%9D)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=43E97B&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+one+commit+at+a+time...)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mandamn7&color=F7971E&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=mandamn7&color=43E97B&style=flat-square)
 
 </div>
 
 ---
 
-## 🙋 About Me
-- 🔨 I build complete web apps — front to back
-- 🌍 Open source enthusiast
-- 📖 Currently leveling up in system design
-- 🎧 Lo-fi + code = perfect combo
+## 👨‍💻 About Me
+- 🏗️ I craft web apps from scratch — UI to API
+- 🔍 Detail-oriented and clean code obsessed
+- 🤝 Love working with other devs on cool projects
+- ☕ Powered by coffee and curiosity
 
 ---
 
@@ -32,8 +32,8 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mandamn7&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandamn7&layout=compact&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mandamn7&show_icons=true&theme=merko&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandamn7&layout=compact&theme=merko&hide_border=true" width="48%" />
 </div>
 
 ---
@@ -49,5 +49,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7971E&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=43E97B&height=80&section=footer"/>
 </div>
