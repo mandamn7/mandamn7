@@ -1,6 +1,20 @@
 # Hey, I'm Mandamn 👋
+### Full-Stack Developer | React · Node.js · MongoDB
 
-Full-stack developer passionate about building web apps that actually work — inside and out.
+![Profile Views](https://komarev.com/ghpvc/?username=Mandamn&color=blueviolet&style=flat-square)
+
+> *"Good code speaks for itself."*
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building full-stack web apps
+- 🌱 Always learning — right now diving deeper into system design
+- 💡 I love solving real problems with clean, efficient code
+- ⚡ Fun fact: I debug better with music on 🎵
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -10,21 +24,37 @@ Full-stack developer passionate about building web apps that actually work — i
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-## 📌 What I Build
-- ⚡ Full-stack web apps from scratch
-- 🎨 Responsive, clean UIs with React
-- 🔧 REST APIs and database architecture
-
-## 📊 GitHub Stats
-![Mandamn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mandamn&show_icons=true&theme=radical)
-
-## 🌱 Currently
-- Deepening full-stack architecture knowledge
-- Contributing to open source projects
-
-## 📫 Let's Connect
-- GitHub: [@Mandamn](https://github.com/Mandamn)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
-*"Good code speaks for itself."*
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mandamn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandamn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandamn&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
+## 🏗️ Projects
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔨 Coming soon | Building something cool | React · Node · MongoDB |
+
+---
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mandamn)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
